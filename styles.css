@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: Helvetica;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: #F0EDEF;
+    padding-top: 5px;
+}
+
+.publicaciones{
+    width: 550px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 55px;
+    margin-top: 55px;
+    border: 1px solid #E8E8E8;
+}
+
+.head{
+    padding: 10px;
+}
+
+.head h3{
+    margin: 0;
+}
+
+.head .date{
+    float: right;
+    margin: 0;
+}
+
+.photo img{
+    width: 100%;
+}
+
+.text{
+    padding: 15px;
+}
